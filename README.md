@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/drtoxic69/drtoxic69/blob/main/undefined%20-%20Imgur.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">A Btech student from India. Passionate about learning different technologies.</h3>
 
